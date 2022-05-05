@@ -1,0 +1,13 @@
+body {
+  margin: 0px;
+}
+header {
+  width: 100%;
+  margin: 0px;
+  background-color: #000000;
+  color: rgb(242, 246, 248);
+}
+footer {
+  background-color: #000000;
+  color: rgb(242, 246, 248);
+}
